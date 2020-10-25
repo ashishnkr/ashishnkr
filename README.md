@@ -7,8 +7,7 @@ I like coding, constantly learning and sharing new things. For starters, I have 
 Previously, I use to host all my code on VSTS (Now called Azure DevOps). I have migrated all that [here](https://github.com/ashishnkr/FromAzureDevOps). A good quick reference for programmers.
 
 Check out a no code project deployed on Mendix Cloud ☁
-  - APP 👉 [NasaDataViewer](https://nasadataviewer-sandbox.mxapps.io/)
-  - [Repo](https://github.com/ashishnkr/NASADataViewer)
+  - APP 👉 [NasaDataViewer](https://nasadataviewer-sandbox.mxapps.io/) 👉 [Repo](https://github.com/ashishnkr/NASADataViewer)
 
 ### 💬 Little bit more about me -
 - 🔭 I’m currently working on Java, JavaScript, C#
