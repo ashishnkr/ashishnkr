@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Ashish, an Enthusiast Software Developer. I have previously worked on Windows based applications but now I am discovering new passion in web technologies 🕸
-I like coding and constantly learning and sharing new things. For starters, I have created a repository for Design Patterns which I have come across and implemented.
+I am Ashish, an Enthusiast Software Developer. I have previously worked on Windows based applications but now I am discovering new passion for web technologies 🕸
+I like coding, constantly learning and sharing new things. For starters, I have created a repository for Design Patterns which I have come across and implemented.
 https://github.com/ashishnkr/DesignPatterns
 
 Previously, I use to host all my code on VSTS (Now called Azure DevOps). I have migrated all that here and good for a quick reference.
