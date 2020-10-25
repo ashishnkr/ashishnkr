@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ashish, an Enthusiast Software Developer. I have previously worked on Windows based applications previous but now I am discovering new passion in web technologies 🕸
+I am Ashish, an Enthusiast Software Developer. I have previously worked on Windows based applications but now I am discovering new passion in web technologies 🕸
 I like coding and constantly learning and sharing new things. For starters, I have created a repository for Design Patterns which I have come across and implemented.
 https://github.com/ashishnkr/DesignPatterns
 
